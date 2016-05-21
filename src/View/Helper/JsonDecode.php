@@ -5,7 +5,7 @@
  * @link http://github.com/armenio for the source repository
  */
 
-namespace Armenio\ViewHelper\View\Helper;
+namespace Armenio\ViewHelperJsonDecode\View\Helper;
 
 use Zend\View\Helper\AbstractHelper;
 use Zend\Json\Json as JsonFormatter;

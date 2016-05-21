@@ -5,7 +5,7 @@
  * @link http://github.com/armenio for the source repository
  */
 
-namespace Armenio\ViewHelper;
+namespace Armenio\ViewHelperJsonDecode;
 
 class Module
 {

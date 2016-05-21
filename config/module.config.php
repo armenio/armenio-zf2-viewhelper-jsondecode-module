@@ -8,7 +8,7 @@
 return array(
     'view_helpers' => array(
         'invokables'=> array(
-            'jsonDecode' => 'Armenio\ViewHelper\View\Helper\JsonDecode',
+            'jsonDecode' => 'Armenio\ViewHelperJsonDecode\View\Helper\JsonDecode',
         ),
     ),
 );

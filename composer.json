@@ -1,5 +1,5 @@
 {
-	"name": "armenio/armenio-zf2-viewhelper-jsondecode",
+	"name": "armenio/armenio-zf2-viewhelper-jsondecode-module",
 	"description": "View Helper Json Decode Module for Zend Framework 2",
 	"type": "library",
 	"keywords": [
@@ -10,7 +10,7 @@
 		"zf2",
 		"armenio"
 	],
-	"homepage": "https://github.com/armenio/armenio-zf2-viewhelper-jsondecode",
+	"homepage": "https://github.com/armenio/armenio-zf2-viewhelper-jsondecode-module",
 	"license": "MIT",
 	"authors": [
 		{

@@ -5,10 +5,10 @@
  * @link http://github.com/armenio for the source repository
  */
 
-return array(
-    'view_helpers' => array(
-        'invokables'=> array(
+return [
+    'view_helpers' => [
+        'invokables'=> [
             'jsonDecode' => 'Armenio\ViewHelperJsonDecode\View\Helper\JsonDecode',
-        ),
-    ),
-);
+        ],
+    ],
+];
